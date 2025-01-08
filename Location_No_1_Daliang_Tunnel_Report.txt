@@ -1,0 +1,246 @@
+The Generated Report is as follows:
+latitude is  37.78901198
+longitude is  101.3090301
+RMR is  9
+OD is  50.0 m
+Lining Type is  RCL (The order of criticality of lining type is UL>TL>ML>CL>RCL)
+Shape is  HS (The order of criticality of shape is RE>AH>D>HS>OV>CR)
+*****************************************************************************************************************************************************************************
+ The Seismic Damages of Rock Tunnels are Classified as Damages to Lining, Portal, and Invert. The sub-categories of those damages are:
+            Lining Damage (1):
+            Collapse of a Tunnel/Sheared-off Lining (A11)
+            Grade 1 and 2 -Lining Dislocation (B11 and B12 respectively)
+            Grade 1 and 2- Lining Spalling (C11 and C12 respectively)
+            Lining Deformation (D11)
+            Grade-1, 2, 3 and 4 Lining cracks (E11, E12, E13 and E14 respectively)
+
+            Portal Damage(2):
+            Grade-1 Portal/ Slope Damage (A21)
+            Grade-2,3,4, and 5 Portal Damage (B21,B22,B23 and B24 respectively)
+
+            Invert Damage(3):
+            Grade 1,2 and 3-Invert Damage (A31, A32, and A33 respectively)
+            N- Indicates No Damage Scenario
+            The amount of damage for each category and the accessibility of the tunnel for each damage class are elaborated at the bottom of this report
+*****************************************************************************************************************************************************************************
+The Results of Seismic Vulnerability of Tunnel for a given lat, long are in the form of 
+ Results: {Fault ID, Fault Name, Fault Layer, Source-Site Distance (Lat, Long), Total Fault Length, Predicted Magnitude, PGA, Damage Class, Probable Damages to Tunnel}
+
+***********************************************************************************************************************************************************************
+
+Results: [63, 'Haiyuan Fault', 'Himatibet_Faults', 3.48, (37.8023282433, 101.3447981167), 846.0, 8.48]
+The PGA is  2.4 
+
+Damage Class: Extremely High and Probable Damages : (Lining = A11)  
+***********************************************************************************************************************************************************************
+
+Results: [74, nan, 'Himatibet_Faults', 6.29, (37.7343752652, 101.3278098722), 89.0, 7.34]
+The PGA is  1.68 
+
+Damage Class: Very High and Probable Damages : (Lining = B11), (Portal = A21), (Invert = A31) 
+***********************************************************************************************************************************************************************
+
+Results: [48, 'Qilian Shan - Nan Shan thrust belt', 'Himatibet_Faults', 16.63, (37.9042577106, 101.4297393394), 251.0, 7.86]
+The PGA is  1.54 
+
+Damage Class: Very High and Probable Damages : (Lining = B11), (Portal = A21), (Invert = A31) 
+***********************************************************************************************************************************************************************
+
+Results: [49, nan, 'Himatibet_Faults', 45.76, (38.1930578677, 101.4127510949), 112.0, 7.46]
+The PGA is  0.63 
+
+Damage Class: Moderate and Probable Damages : (Lining = C12, D11, E12), (Portal = B22), (Invert = A33) 
+***********************************************************************************************************************************************************************
+
+Results: [52, nan, 'Himatibet_Faults', 38.13, (37.445575108, 101.3193157499), 57.0, 7.12]
+The PGA is  0.55 
+
+Damage Class: Moderate and Probable Damages : (Lining = C12, D11, E12), (Portal = B22), (Invert = A33) 
+***********************************************************************************************************************************************************************
+
+Results: [64, nan, 'Himatibet_Faults', 76.07, (37.445575108, 100.5633388679), 139.0, 7.57]
+The PGA is  0.4 
+
+Damage Class: Low and Probable Damages : (Lining = E13), (Portal = B23), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [47, 'Qilian Shan - Nan Shan thrust belt', 'Himatibet_Faults', 95.49, (38.5413168808, 101.8374572083), 163.0, 7.65]
+The PGA is  0.32 
+
+Damage Class: Low and Probable Damages : (Lining = E13), (Portal = B23), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [62, nan, 'Himatibet_Faults', 126.83, (37.3691280076, 102.6443988239), 380.0, 8.07]
+The PGA is  0.31 
+
+Damage Class: Low and Probable Damages : (Lining = E13), (Portal = B23), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [50, nan, 'Himatibet_Faults', 91.12, (37.7938341211, 100.2745387108), 115.0, 7.47]
+The PGA is  0.29 
+
+Damage Class: Low and Probable Damages : (Lining = E13), (Portal = B23), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [45, 'Qilian Shan - Nan Shan thrust belt', 'Himatibet_Faults', 116.52, (38.3204697018, 100.1641151213), 116.0, 7.47]
+The PGA is  0.2 
+
+Damage Class: Low and Probable Damages : (Lining = E13), (Portal = B23), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [55, nan, 'Himatibet_Faults', 142.92, (36.5027275361, 101.387268728), 203.0, 7.76]
+The PGA is  0.19 
+
+Damage Class: Low and Probable Damages : (Lining = E13), (Portal = B23), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [69, nan, 'Himatibet_Faults', 158.72, (36.4262804357, 100.7671978024), 191.0, 7.73]
+The PGA is  0.15 
+
+Damage Class: Low and Probable Damages : (Lining = E13), (Portal = B23), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [56, nan, 'Himatibet_Faults', 173.09, (36.2309156235, 101.3957628503), 187.0, 7.72]
+The PGA is  0.13 
+
+Damage Class: Low and Probable Damages : (Lining = E13), (Portal = B23), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [53, nan, 'Himatibet_Faults', 148.33, (37.1992455622, 102.8142812693), 104.0, 7.42]
+The PGA is  0.12 
+
+Damage Class: Low and Probable Damages : (Lining = E13), (Portal = B23), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [322, nan, 'Himatibet_Faults', 187.34, (39.4758628413, 101.2447754191), 241.0, 7.84]
+The PGA is  0.12 
+
+Damage Class: Low and Probable Damages : (Lining = E13), (Portal = B23), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [46, 'Qilian Shan - Nan Shan thrust belt', 'Himatibet_Faults', 197.39, (38.8895758938, 99.5355500733), 244.0, 7.85]
+The PGA is  0.11 
+
+Damage Class: Low and Probable Damages : (Lining = E13), (Portal = B23), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [54, nan, 'Himatibet_Faults', 191.22, (36.0950096672, 101.701551252), 216.0, 7.79]
+The PGA is  0.11 
+
+Damage Class: Low and Probable Damages : (Lining = E13), (Portal = B23), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [65, nan, 'Himatibet_Faults', 157.22, (36.3923039466, 101.0135273482), 105.0, 7.42]
+The PGA is  0.11 
+
+Damage Class: Low and Probable Damages : (Lining = E13), (Portal = B23), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [789, nan, 'Himatibet_Faults', 187.82, (39.2741816823, 102.3410671582), 150.0, 7.6]
+The PGA is  0.09 
+
+Damage Class: Very Low and Probable Damages : (Lining = E14), (Portal = B24), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [44, 'Qilian Shan - Nan Shan thrust belt', 'Himatibet_Faults', 186.59, (38.5328227585, 99.399644117), 105.0, 7.42]
+The PGA is  0.08 
+
+Damage Class: Very Low and Probable Damages : (Lining = E14), (Portal = B24), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [321, nan, 'Himatibet_Faults', 231.42, (39.8054673929, 100.6333350915), 250.0, 7.86]
+The PGA is  0.08 
+
+Damage Class: Very Low and Probable Damages : (Lining = E14), (Portal = B24), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+Results: [72, nan, 'Himatibet_Faults', 243.18, (36.8085159378, 98.8560202918), 196.0, 7.74]
+The PGA is  0.06 
+
+Damage Class: Very Low and Probable Damages : (Lining = E14), (Portal = B24), (Invert = N) 
+***********************************************************************************************************************************************************************
+
+
+Count of each Damage Class:
+Extremely High: 1
+Very High: 2
+High: 0
+Moderate: 2
+Low: 13
+Very Low: 4
+Extremely Low: 0
+Bar graph saved as: Tunnel_Report_Graph_2024-07-13_12-25-08.png
+***********************************************************************************************************************************************************************
+
+
+================================================================================
+ The Seismic Damages of Rock Tunnels are Classified as Damages to Lining, Portal, and Invert. 
+                The sub-categories of those damages and the amount of damage are elaborated as follows:
+
+                Lining Damage (1):
+
+                    Collapse of a Tunnel/Sheared-off Lining (A11)- Tunnels intersecting the faults are sheared off or dislocated up to 3-4 m vertically and horizontally. 
+                         Major sections of lining or roof cave in and completely fall and collapse. It leads to the collapse of a tunnel 
+
+                    Grade 1 -Lining Dislocation (B11)- The lining is sheared off or dislocated up to 2 m vertically and horizontally. 
+                        A section of lining or roof caves in and completely falls and collapses. 
+                        Will either lead to collapse or heavy rehabilitation of the tunnel.
+
+                    Grade 2 -Lining Dislocation (B12)-The lining is dislocated up to 0.8 m horizontally and slightly shifted vertically. 
+                        A portion of the roof caves in and falls. This will lead to heavy rehabilitation of the tunnel.
+
+                    Grade 1 -Lining Spalling (C11)- A large-scale spalling characterized by the detachment of lining or steel reinforcements, severe falling of lining, 
+                            exposed Reinforcement, distortion, and surrounding rock collapse. The area of crushed lining is >2 m2(square meter). Requires heavy rehabilitation of tunnel.
+
+                    Grade 2- Lining Spalling (C12)- A small-scale spalling characterized by the detachment of lining or steel reinforcements, moderate to slight falling of lining, 
+                        and exposed reinforcement. The area of crushed lining is <2 m2(square meter). Requires moderate rehabilitation of the tunnel.
+
+                    Lining Deformation (D11)- The lining is deformed up to a maximum of 25 cm horizontally. The crown and sidewall of the tunnel are deformed or 
+                        laterally shifted sideways from the original position. Requires moderate rehabilitation of the tunnel.
+
+                    Grade-1 Lining cracks (E11)- Cracks extend up to l >15 m, w >35 mm (l-Length of Crack, w- Width of Crack). Requires just a slight rehabilitation of the tunnel.
+                    Grade-2 Lining cracks (E12)- Cracks extend up to l: 5-15 m, w: 5-35 mm (l-Length of Crack, w- Width of Crack). Requires just a slight rehabilitation of the tunnel.
+                    Grade-3 Lining cracks (E13)- Cracks extend up to l <5 m, w <5 mm (l-Length of Crack, w- Width of Crack). Requires just a slight rehabilitation of the tunnel.
+                    Grade-4 Lining cracks (E14)- Cracks extend up to l <1 m, w <3 mm (l- Length of Crack, w- Width of Crack). Requires just a slight rehabilitation of the tunnel.
+
+                Portal Damage(2):
+
+                    Grade-1 Portal/ Slope Damage (A21)- Characterized by portal/slope collapse, head wall fractured by heavy rockfalls, and completely buried tunnel portal. 
+                        This will lead to either collapse or heavy rehabilitation of the tunnel.
+
+                    Grade-2 Portal Damage (B21)- Characterized by severe failure of a slope and rock fall, most of the tunnel portal is buried, and portal wall cracking. 
+                        Severe damage to the portal such as loosening of the curved head-wall of the portal, and structure puncture.  
+                        Requires heavy rehabilitation of the tunnel.
+
+                    Grade-3 Portal Damage (B22)– Characterized by moderate rock fall, massive gravel, or large stones piled up/overlaying of rock and soil deposits in front of a portal. 
+                        Portal cracks of continuous ring-shaped (Width of Crack >15 mm). Requires moderate rehabilitation of the tunnel.
+
+                    Grade-4 Portal Damage (B23)- Characterized by small-scale rock fall, sparse gravel, or small stones piled up in front of a tunnel, 
+                        and portal cracks (Width of Crack < 15 mm). Requires just a slight rehabilitation of the tunnel.
+
+                    Grade-5 Portal Damage (B24)- Characterized by overhead raveling of loose rock that will fall on a tunnel or slight chipping of rock chunks from a slope or 
+                        slight cracks in the portal. Requires slight rehabilitation of the tunnel.
+
+                Invert Damage(3):
+
+                    Grade 1-Invert Damage (A31)-  Characterized by severe invert upheaval (uplift height-hu < 150 cm), invert will dislocate laterally. 
+                        Severe extended cracks (l ≥ 20 m, w ≥ 10 cm where, l -Length of Crack, w- Width of Crack) at the tunnel bottom. 
+                        This will lead to either collapse or heavy reinforcement of the tunnel.
+
+                    Grade 2-Invert Damage (A32)-  Characterized by moderate invert upheaval (uplift height- hu < 50 cm) and 
+                        moderate-scale cracks (l < 20 m, w < 10 cm, where, l -Length of Crack, w- Width of Crack) at the tunnel bottom. 
+                        Requires heavy rehabilitation of the tunnel.
+
+                    Grade 3-Invert Damage (A33)- Characterized by slight invert upheaval (uplift height- hu < 20 cm) or 
+                        slight cracks (l < 5 m, w < 5 cm, where, l -Length of Crack, w- Width of Crack) at the tunnel bottom. 
+                        It requires moderate rehabilitation of the tunnel.
+
+                N- Indicates No Damage Scenario, where the damage doesn't take place
+                
+                
+                The Accessibility of Tunnel for respective damage classes are:
+                AT1- Cannot be operable after the seismic event: for EH and VH damage classes
+                AT2- Operable after a seismic event with many precautions and caution boards: for H damage class
+                AT3- Operable after the seismic event without regulations and caution boards: for M damage class
+                AT4- A tunnel is immediately operable after a seismic event:  for L and VL damage classes
+                AT5 - The tunnel is operable and remains undamaged by seismic eventS: for EL damage class 
