@@ -1,8 +1,7 @@
 # Simplistic-Method-for-Assessing-Seismic-Damage-in-Rock-Tunnels
-The SDART (Seismic Damage Analyzer for Rock Tunnels) tool can be used to:
+The SDART (Seismic Damage Analyzer for Rock Tunnels) tool can be used for two main purposes:
 
 
-"This tool serves two main purposes:
       1. Seismic Vulnerability of Rock Tunnels (SVRT):
         - Evaluate the SVRT using Reddy and Singh's approach.
         - Predicts the Damage class and probable damages to tunnel before an Earthquake.
@@ -10,6 +9,9 @@ The SDART (Seismic Damage Analyzer for Rock Tunnels) tool can be used to:
         - Can perform for locations in India and adjacent countries.
         - Analysis performed within a threshold distance of 250 km.
         - PGA is calculated using the attenuation relationship of Kanno et al. (2006).    
+    
+     
+     
      2. Deterministic Seismic Hazard Analysis (DSHA):
         - Assess the deterministic seismic hazard of sites.
         - Can perform for locations in India and adjacent countries.
