@@ -9,8 +9,7 @@ The SDART (Seismic Damage Analyzer for Rock Tunnels) tool can be used to:
         - Assumes tunnels are not designed for seismicity.
         - Can perform for locations in India and adjacent countries.
         - Analysis performed within a threshold distance of 250 km.
-        - PGA is calculated using the attenuation relationship of Kanno et al. (2006).
-     
+        - PGA is calculated using the attenuation relationship of Kanno et al. (2006).     
      2. Deterministic Seismic Hazard Analysis (DSHA):
         - Assess the deterministic seismic hazard of sites.
         - Can perform for locations in India and adjacent countries.
