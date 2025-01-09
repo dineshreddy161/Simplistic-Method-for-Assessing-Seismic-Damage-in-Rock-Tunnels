@@ -23,6 +23,8 @@ The SDART (Seismic Damage Analyzer for Rock Tunnels) tool can be used for two ma
 
 The repository was created by A. Dinesh Reddy, Department of Civil Engineering, Indian Institute of Technology Roorkee, Roorkee, India.
 
-** SDART software can be downloaded from the link
+** SDART software can be downloaded from the link:
+1)  https://drive.google.com/drive/folders/14Y-uNvQ6b4f3ilcl9UOxz4TYHUXfoDjd?usp=sharing     (for faster download/ZIP File)
+2)  https://drive.google.com/drive/folders/1169_xDQX-tVeS1iNR4G2euEWte-NUSaF?usp=sharing      
 
 Due to size constrains file was not uploaded on GitHub**. SDART can be downloaded and can be used directly by clicking on application.
