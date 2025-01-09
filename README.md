@@ -24,7 +24,7 @@ b) Inside, you will find an application named SDART with a tunnel icon.
 
 c) Double-click on SDART to launch the application.
 
-**This software is develped as a part of PhD research work of A. Dinesh Reddy. For more details on operating software, you can follow our publication**
+**This software is develped as a part of Ph.D. research work of A. Dinesh Reddy. For more details on operating software, you can follow our publication**
 
 The SDART (Seismic Damage Analyzer for Rock Tunnels) tool can be used for two main purposes:
 
@@ -53,7 +53,7 @@ The SDART (Seismic Damage Analyzer for Rock Tunnels) tool can be used for two ma
  **https://drive.google.com/drive/folders/14Y-uNvQ6b4f3ilcl9UOxz4TYHUXfoDjd?usp=sharing**     (for faster download/ZIP File)
      
 
-**This software is develped as a part of PhD research work of A. Dinesh Reddy. For more detail you can follow our publication**
+**This software is develped as a part of Ph.D. research work of A. Dinesh Reddy. For more detail you can follow our publication**
 
 
 
