@@ -28,3 +28,4 @@ The repository was created by A. Dinesh Reddy, Department of Civil Engineering, 
      
 
 Due to size constrains file was not uploaded on GitHub**. SDART can be downloaded and can be used directly by clicking on application.
+T**This software is develped as a part of PhD research work of A. Dinesh Reddy. For more detail you can follow our publication**
