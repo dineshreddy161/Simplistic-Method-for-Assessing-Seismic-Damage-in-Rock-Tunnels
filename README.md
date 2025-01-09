@@ -9,14 +9,19 @@ Due to size constrains file was not uploaded on GitHub**. SDART can be downloade
 Step 1:
 
 a) Click the provided Google Drive link and select the Download option.
+
 b) Once the ZIP file is downloaded, right-click on it and select Extract All.
+
 c) In the extraction window, click Browse, choose your desired destination folder, and then click Next.
+
 d) The files will be extracted into the selected destination folder within a subfolder named Build.
 
 Step 2:
 
 a) Open the Build folder.
+
 b) Inside, you will find an application named SDART with a tunnel icon.
+
 c) Double-click on SDART to launch the application.
 
 **This software is develped as a part of PhD research work of A. Dinesh Reddy. For more details on operating software, you can follow our publication**
