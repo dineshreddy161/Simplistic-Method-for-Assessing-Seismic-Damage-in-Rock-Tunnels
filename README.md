@@ -53,8 +53,8 @@ The SDART (Seismic Damage Analyzer for Rock Tunnels) tool can be used for two ma
  **https://drive.google.com/drive/folders/14Y-uNvQ6b4f3ilcl9UOxz4TYHUXfoDjd?usp=sharing**     (for faster download/ZIP File)
      
 
-**This software is develped as a part of Ph.D. research work of A. Dinesh Reddy. For more detail you can follow our publication**
-Reddy, A.D., Singh, A. A Simplistic Method for Assessing Seismic Damage in Rock Tunnels Before Earthquake: Part 2—Application of Simplistic Method by a Python-Based GUI Tool for India and Adjacent Countries. Rock Mech Rock Eng (2025). https://doi.org/10.1007/s00603-025-04473-0
+**This software is develped as a part of Ph.D. research work of A. Dinesh Reddy. For more detail you can follow our publication** :  
+ Reddy, A.D., Singh, A. A Simplistic Method for Assessing Seismic Damage in Rock Tunnels Before Earthquake: Part 2—Application of Simplistic Method by a Python-Based GUI Tool for India and Adjacent Countries. Rock Mech Rock Eng (2025). https://doi.org/10.1007/s00603-025-04473-0
 
 
 
